@@ -1,0 +1,4 @@
+INSERT INTO ACCOUNT(id, balance) VALUES
+(4755, 1001.88),
+(9834, 456.45),
+(7735, 89.36);
